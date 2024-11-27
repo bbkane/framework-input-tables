@@ -1,3 +1,21 @@
+# Why does the locally installed input library break things?
+
+Install local dependencies:
+
+```
+npm install
+```
+
+Run locally:
+
+```
+npm run dev
+```
+
+Compare src/local-input-able vs npm-input table
+
+
+
 # Hello Framework
 
 This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
